@@ -1,10 +1,24 @@
 # Shreya's HTML Starter Project 🚀
 
-Welcome to a basic HTML project crafted and taught by **[Shreya Malogi!](https://github.com/shreyamalogi)** 🌈
+Welcome to a basic HTML project - "Create your own Personal Webpage" 
 
-## About This Project 📜
+Crafted and taught by **[Shreya Malogi!](https://github.com/shreyamalogi)** 🌐 
 
-This HTML project is specially designed for beginners who are eager to embark on their web development journey. Shreya Malogi, a passionate coder and web enthusiast, has curated this project to provide a hands-on experience for those taking their first steps into the world of web development.
+
+ [![GitHub stars](https://img.shields.io/github/stars/shreyamalogi/HTML-Starter-Project.svg?style=social)](https://github.com/shreyamalogi/https://github.com/shreyamalogi/HTML-Starter-Project/stargazers)
+
+### Project Details: 💻📅✍️
+
+
+- **Functionality:** Personal webpage using HTML
+- **Tech Stack:** `HTML`
+- **Author:** [@shreyamalogi](https://github.com/shreyamalogi/)
+- **Year of Project:** 2020
+  
+---
+
+
+
 
 # Table of Contents 🚀
 
@@ -28,6 +42,11 @@ This HTML project is specially designed for beginners who are eager to embark on
     - [Step 8: Connect with Shreya](#step-8-connect-with-shreya-)
     - [Step 9: Copyright](#step-9-copyright-%EF%B8%8F)
     - [Step 10: Upload and Deploy to GitHub](#step-10-upload-and-deploy-to-github-)
+
+
+## About This Project 📜
+
+This HTML project is specially designed for beginners who are eager to embark on their web development journey. Shreya Malogi, a passionate coder and web enthusiast, has curated this project to provide a hands-on experience for those taking their first steps into the world of web development.
 
 
 ## What You'll Learn 🧠
